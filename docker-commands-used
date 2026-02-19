@@ -1,0 +1,21 @@
+docker build
+
+docker images
+
+docker run
+
+docker ps
+
+docker stop
+
+docker rm
+
+docker commit
+
+docker tag
+
+docker push
+
+docker pull
+
+docker login
