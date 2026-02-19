@@ -38,7 +38,7 @@ static-web-app/
 
 ---
 
-**##outcome**
+## outcome
   - Static web app containerized
   - Deployed via Tomcat
   - Accessible at http://localhost:8080
